@@ -11,20 +11,10 @@
 
 ---
 
----
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maderahano&show_icons=true&count_private=true)  
 
 ---
 
----
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=maderahano)  
-
----
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maderahano)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
