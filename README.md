@@ -14,7 +14,7 @@
 
 ![Cover Page](https://github.com/maderahano/maderahano/blob/main/CoverImage.png)
 
-I am a Software Engineer who likes to do problem solving in a program (Even though it's stressful). Some of the technologies I enjoy working with are Java, Go, and Terraform. For now, there are several technologies that I'm interested in learning about in the future for the benefit of my project, namely Kubernetes, Ansible, Flask, and PyTorch.
+I am a Software Engineer experienced in utilizing programming languages such as Java, Golang, Python, and C to develop robust solutions. With a strong foundation in software development, I am well-equipped to tackle a wide range of challenges. Additionally, I have expertise in DevOps engineering, utilizing tools like Terraform and Ansible to streamline deployment processes. I am proficient in working with cloud services such as AWS and Digital Ocean.
 
 ## 💥 Stats
 
